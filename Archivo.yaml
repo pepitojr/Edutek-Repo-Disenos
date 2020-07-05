@@ -1,14 +1,14 @@
 ---
 people:
 - Id: 1
-  FirstName: Benjamin
-  LastName: Finkel
-  Email: ben.finkel@cbtnuggets.com
+  FirstName: Fernando 
+  LastName: Chacon
+  Email: francofer7775@gmail.com
 - Id: 2
-  FirstName: Jane
-  LastName: Doe
-  Email: jane.doe@cbtnuggets.com
+  FirstName: Vinitri
+  LastName: Leal
+  Email: Leal.vinitri@yahoo.com
 - Id: 3
-  FirstName: Pat
-  LastName: Smith
-  Email: pat.smith@cbtnuggets.com
+  FirstName: Paty
+  LastName: acebedo
+  Email: paty.Acebedo@yahoo.com
